@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Zeus",
+      "mythology": "Greek",
+      "title": "King of the Gods",
+      "symbol": "⚡",
+      "description": "Ruler of Mount Olympus, god of the sky and thunder.",
+      "image": "zeus.png"
+    },
+    {
+      "name": "Ra",
+      "mythology": "Egyptian",
+      "title": "Sun God",
+      "symbol": "☀️",
+      "description": "Ra travels through the underworld at night and rises every morning.",
+      "image": "ra.png"
+    },
+    {
+      "name": "Thor",
+      "mythology": "Norse",
+      "title": "God of Thunder",
+      "symbol": "⚡",
+      "description": "Thor is known for wielding Mjölnir and his strength in battle.",
+      "image": "thor.png"
+    }
+  ]
+  
